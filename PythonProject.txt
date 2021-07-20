@@ -1,3 +1,1 @@
-python
-line-1
-line-2line from branch lesson 6
+line-3 from branch lesson6
