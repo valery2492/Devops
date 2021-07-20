@@ -1,2 +1,3 @@
 seleniumProject
-line-1
+line-1\nline from branch lesson 6
+ n\ne line from master
