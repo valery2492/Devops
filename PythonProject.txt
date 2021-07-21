@@ -1,1 +1,1 @@
-line-3 from branch lesson6
+lesson6 new line
